@@ -1,6 +1,7 @@
 {
   "name": "servicetemplate",
   "version": "1.0.0",
+  "type": "module",
   "description": "Template for Services",
   "main": "index.js",
   "scripts": {
